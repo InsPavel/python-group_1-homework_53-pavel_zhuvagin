@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './Loto.css';
 
 class Loto extends Component {
     render() {
